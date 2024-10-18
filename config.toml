@@ -1,0 +1,18 @@
+baseURL = 'https://quitran86.github.io/hugo-blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+themes = 'm10c'
+
+[params]
+    author = "Qui Tran"
+    description = "A blog about all things technical."
+
+    [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/quitran86"
+
+    [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/quitran8695"
